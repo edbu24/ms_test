@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="searchApps"
+    errors="0" failures="0" hostname="" id="" package="searchApps" skipped="0"
+    tests="1" time="7.587" timestamp="">
+  
+    <testcase name="search for Xbox appps" classname="searchApps" time="7.587" assertions="11">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
